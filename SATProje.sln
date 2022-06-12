@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATProje", "SATProje\SATProje.csproj", "{A3093C53-7D17-4BBC-9070-495A30B65784}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ZirApp v1.0", "ZirApp v1.0\ZirApp v1.0.vdproj", "{59CF941C-A471-49F2-8312-C42314F07A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3093C53-7D17-4BBC-9070-495A30B65784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3093C53-7D17-4BBC-9070-495A30B65784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3093C53-7D17-4BBC-9070-495A30B65784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3093C53-7D17-4BBC-9070-495A30B65784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CF941C-A471-49F2-8312-C42314F07A45}.Debug|Any CPU.ActiveCfg = Debug
+		{59CF941C-A471-49F2-8312-C42314F07A45}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE69A98-D4F5-4E6C-BA7C-5142A2BE75D6}
+	EndGlobalSection
+EndGlobal
