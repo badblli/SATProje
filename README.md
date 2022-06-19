@@ -1,4 +1,5 @@
 # Sistem Analizi ve Tasarımı Final Projesi
+<img src="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c4/OM%C3%9C_logo.svg/1200px-OM%C3%9C_logo.svg.png" align="left" width ="300" height ="300">
 ## Zirai İlaç Takip Sistemi
 Ondokuz Mayıs Üniversitesi Sistem Analizi ve Tasarımı Dersi Final Projesi için Hazırlanmıştır.
 
